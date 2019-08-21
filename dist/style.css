@@ -4,7 +4,11 @@
  * gr8.css • v3.1.3
  * github.com/jongacnik/gr8
  */
-body {font-size:30px;font-family:sans-serif;text-transform: uppercase;}
+ @font-face {
+ 	font-family:'DrukWide';
+ 	src:url('./font/DrukWide-Bold.otf');
+ }
+body {font-size:30px;font-weight:normal;font-family:DrukWide, sans-serif;text-transform: uppercase;}
 .c{top:50%;left:50%;transform:translate(-50%, -50%)}
 .cy{top:50%;transform:translateY(-50%)}
 .cx{left:50%;transform: translateX(-50%)}

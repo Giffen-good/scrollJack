@@ -24,7 +24,6 @@ a:hover .hov2 {
 	position:fixed;
 	top: 0 !important;
 }
-::-webkit-scrollbar { visibility: hidden; }
 .category {
 	position:absolute;
 	min-height:100vh;

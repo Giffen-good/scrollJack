@@ -22,7 +22,7 @@ body {font-size:30px;font-family:DrukWide, sans-serif;text-transform: uppercase;
 img:hover + .hov, .hov:hover {
 	opacity:1;
 }
-h1 {font-weight:normal}
+h1 {font-weight:normal;line-height:1;max-width:80vw}
 a:hover .hov2 {
 	opacity:0.25;
 }

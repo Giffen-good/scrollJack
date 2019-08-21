@@ -19,6 +19,7 @@ body {font-size:30px;font-family:DrukWide, sans-serif;text-transform: uppercase;
 .bgc1{background-color:#252525;}
 .el1{max-height:700px;margin:0 25px;}
 .ofc{object-fit:cover;}
+.hov {font-size: 40px}
 img:hover + .hov, .hov:hover {
 	opacity:1;
 }
